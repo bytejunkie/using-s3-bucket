@@ -5,4 +5,4 @@ updates:
   - package-ecosystem: "terraform" # DNS
     directory: "/"
     schedule:
-      interval: "hourly"
+      interval: "daily"
